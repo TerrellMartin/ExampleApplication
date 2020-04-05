@@ -1,0 +1,5 @@
+com\studio\studio\model\User.class
+com\studio\studio\StudioApplication.class
+com\studio\studio\controller\UserController.class
+com\studio\studio\repository\UserRepository.class
+com\studio\studio\model\AuditModel.class
